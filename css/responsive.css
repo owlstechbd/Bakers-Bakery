@@ -1,0 +1,71 @@
+@media screen and (max-width: 720px){
+    #head {
+        padding: 3rem 0;
+    }
+    .head-content{
+        margin-bottom: 2rem;
+    }
+    #about {
+        padding-bottom: 3rem;
+    }
+    .about-title h2 {
+        margin: 1.125rem 0;
+    }
+    .about-photo{
+        padding-bottom: 20px;
+    }
+    .about-content {
+        padding-left: 0rem;
+    }
+    .about-title h2 span.watermark {
+        font-size: 4rem;
+    }
+    #service {
+        padding-bottom: 2rem;
+    }
+    #menu {
+        padding-bottom: 1rem;
+    }
+    .menu-box {
+        margin-bottom: 3rem;
+    }
+    .menu-item {
+        padding-bottom: 0rem;
+    }
+    .form-title h2 span.watermark {
+        font-size: 3.5rem;
+    }
+    .from-containt {
+        display: block;
+        margin: 0rem 1.44rem;
+    }
+    .from-main {
+        width: 100%;
+    }
+    .form-content textarea{
+        width: 100%;
+    }
+    .form-content h3 {
+        padding: 0px 0rem;
+        font-size: 1.5rem;
+    }
+    .map {
+        width: 100%;
+    }
+    .map iframe {
+        height: 15rem;
+    }
+    .social-main h1 {
+        text-align: center;
+        font-size: 1.8125rem;
+    }
+    .social-box {
+        height: auto;
+        margin-bottom: 2rem;
+    }
+    #social-link {
+        padding: 3.5rem 0;
+    }
+    
+    
+}
